@@ -2,6 +2,7 @@
 Tópicos Especiais de Sistemas - TOP_ESP_SIST_TURMA_B_3.1900_ (Not) _UP-ECO_POSITIVO
 
 Tales Bacarin Lopes
+
 Eduardo Caron Becker
 
 Exercícios Resolvidos
